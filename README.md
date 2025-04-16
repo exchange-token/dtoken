@@ -25,16 +25,15 @@ Ver 2.02 版本
 
 
 ## Screenshots
-![1](01.png)
-![2](02.JPG)
-![5](05.JPG)
-![3](03.JPG)
-![6](06.JPG)
-![7](07.JPG)
-![8](08.JPG)
-![9](09.JPG)
-![10](10.JPG)
-![smaol](small.png)
+![1](imgs/1.jpg)
+![2](imgs/2.jpg)
+![3](imgs/3.jpg)
+![4](imgs/4.jpg)
+![5](imgs/5.jpg)
+![6](imgs/6.jpg)
+![7](imgs/7.JPG)
+![8](imgs/8.JPG)
+![9](imgs/9.JPG)
 
 
 
